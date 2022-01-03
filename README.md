@@ -4,7 +4,7 @@ In this project, you will implement from scratch, without any library, a web pag
 
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file. :rocket:
 
-![implement design from scratch](https://user-images.githubusercontent.com/53787841/105736385-ba978e80-5f02-11eb-93cc-084ec4a8dddf.jpg)
+![implement design from scratch](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220103T140507Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8bc501f632adc81339b5f2ec0df8d8c2c5af7814278b89188f6ba3ab46b4ce4b)
 
 
 ---
