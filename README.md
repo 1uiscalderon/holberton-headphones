@@ -4,8 +4,6 @@ In this project, you will implement from scratch, without any library, a web pag
 
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file. :rocket:
 
-![implement design from scratch](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220103T140507Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8bc501f632adc81339b5f2ec0df8d8c2c5af7814278b89188f6ba3ab46b4ce4b)
-
 
 ---
 
@@ -14,8 +12,15 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 
 ### [1. Header](./0-index.html)
-* For this first task: create the header/hero piece
+* Building a web page the right way, is not easy - expect if you put in place strong foundations:
 
+reset CSS styling
+* use variables
+* simple/“as generic as you can” CSS selectors
+* avoid using super specific CSS selectors as much as possible
+* simple HTML structure - div containers are your friend!
+
+For this first task: create the header/hero piece
 
 ### [2. "What we do..." section](./1-index.html)
 * For this second task: create the “What we do…” section
